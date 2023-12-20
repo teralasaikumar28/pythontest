@@ -4,4 +4,4 @@ services:
   your-python-app:
     image: dockerhubusername/your-docker-image:latest
     ports:
-      - "8080:5000"  # Adjust the port as per your application
+      - "5000:5000"  # Adjust the port as per your application
